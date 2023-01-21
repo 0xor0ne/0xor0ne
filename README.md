@@ -24,9 +24,9 @@ interested in C and Rust, IoT/embedded devices, Linux kernel and wireless techno
 
 - #### [Debugoff](https://github.com/0xor0ne/debugoff): Linux anti-debugging and anti-analysis rust library.
 
-- #### [Qscan](https://github.com/0xor0ne/qscan/tree/main/qscan): Rust library for scanning network hosts asynchronously.
-
-- #### [Qsc](https://github.com/0xor0ne/qscan/tree/main/qsc): Rust command line utility for quick asynchronous network hosts scanning.
+- #### [QSCAN](https://github.com/0xor0ne/qscan): Quick Network Scanner 
+  - [qscan](https://github.com/0xor0ne/qscan/tree/main/qscan): Rust library for scanning network hosts asynchronously.
+  - [zsc](https://github.com/0xor0ne/qscan/tree/main/qsc): Rust command line utility for quick asynchronous network hosts scanning.
 
 - #### [Flipperbit](https://github.com/0xor0ne/flipperbit): Corrupted files generator. Random bits flipper.
 
