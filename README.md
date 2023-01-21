@@ -22,13 +22,13 @@ interested in C and Rust, IoT/embedded devices, Linux kernel and wireless techno
 
 ### In here I host some of my public work, like:
 
-- [Debugoff](https://github.com/0xor0ne/debugoff): Linux anti-debugging and anti-analysis rust library.
+- #### [Debugoff](https://github.com/0xor0ne/debugoff): Linux anti-debugging and anti-analysis rust library.
 
-- [Qscan](https://github.com/0xor0ne/qscan/tree/main/qscan): Rust library for scanning network hosts asynchronously.
+- #### [Qscan](https://github.com/0xor0ne/qscan/tree/main/qscan): Rust library for scanning network hosts asynchronously.
 
-- [Qsc](https://github.com/0xor0ne/qscan/tree/main/qsc): Rust command line utility for quick asynchronous network hosts scanning.
+- #### [Qsc](https://github.com/0xor0ne/qscan/tree/main/qsc): Rust command line utility for quick asynchronous network hosts scanning.
 
-- [Flipperbit](https://github.com/0xor0ne/flipperbit): Corrupted files generator. Random bits flipper.
+- #### [Flipperbit](https://github.com/0xor0ne/flipperbit): Corrupted files generator. Random bits flipper.
 
 
 ### I like to share on [Twitter](https://twitter.com/0xor0ne) and [Mastodon](https://infosec.exchange/@0xor0ne) cyber security stuff I find interesting... follow me!
