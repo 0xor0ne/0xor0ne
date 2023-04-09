@@ -25,7 +25,9 @@ Security Researcher interested in Rust, C, Linux (kernel) and embedded devices
 -
 <a href="https://github.com/0xor0ne/recmd">ReCmd</a>
 -
-<a href="https://github.com/0xor0ne/awesome-list">Personal Awesome list</a>
+<a href="https://github.com/0xor0ne/ssfs">SSFS</a>
+-
+<a href="https://github.com/0xor0ne/awesome-list">Awesome list</a>
 </h3>
 
 <p align="center"> 
