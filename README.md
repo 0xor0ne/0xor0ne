@@ -7,7 +7,6 @@
 
 <p align="center"> 
     <a href="https://twitter.com/0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-    <a href="https://www.instagram.com/0xor0ne/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
     <a href="https://infosec.exchange/@0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=Mastodon&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/nfacchi/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="mailto:0xor0ne@gmail.com" target="_blank"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
