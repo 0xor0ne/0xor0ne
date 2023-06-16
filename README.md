@@ -6,10 +6,10 @@
 </p> 
 
 <p align="center"> 
-    <a href="https://twitter.com/0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-    <a href="https://medium.com/@0xor0ne"><img alt="Medium" src="https://img.shields.io/badge/Medium-50565D?style=flat-square&logo=medium&logoColor=white"></a>
-    <a href="https://infosec.exchange/@0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=Mastodon&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/nfacchi/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://medium.com/@0xor0ne"><img alt="Medium" src="https://img.shields.io/badge/Medium-50565D?style=for-the-badge&logo=medium&logoColor=white"></a>
+    <a href="https://infosec.exchange/@0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nfacchi/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p> 
 
 <h3 align="center"> 
