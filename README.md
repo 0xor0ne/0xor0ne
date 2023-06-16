@@ -7,10 +7,9 @@
 
 <p align="center"> 
     <a href="https://twitter.com/0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+    <a href="https://medium.com/@0xor0ne"><img alt="Medium" src="https://img.shields.io/badge/Medium-50565D?style=flat-square&logo=medium&logoColor=white"></a>
     <a href="https://infosec.exchange/@0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=Mastodon&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/nfacchi/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="mailto:0xor0ne@gmail.com" target="_blank"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-    <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/BAC49FE3A714464FA7C8EDB855CB26B022BD1FCA" target="_blank"><img alt="55CB 26B0 22BD 1FCA" src="https://img.shields.io/badge/PGP Key-4A0?style=flat-square&logo=GNU Privacy Guard&logoColor=FFFFFF"></a>
 </p> 
 
 <h3 align="center"> 
@@ -35,3 +34,7 @@ Security Researcher interested in Rust, C, Linux (kernel) and embedded devices
     <a href="https://www.buymeacoffee.com/0xor0neE"><img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"></a>
 </p> 
 
+<p align="center"> 
+    <a href="mailto:0xor0ne@gmail.com" target="_blank"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/BAC49FE3A714464FA7C8EDB855CB26B022BD1FCA" target="_blank"><img alt="55CB 26B0 22BD 1FCA" src="https://img.shields.io/badge/PGP Key-4A0?style=flat-square&logo=GNU Privacy Guard&logoColor=FFFFFF"></a>
+</p> 
