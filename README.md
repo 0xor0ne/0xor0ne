@@ -17,6 +17,8 @@ Security Researcher interested in Rust, C, Linux (kernel) and embedded devices
 </h3>
 
 <h3 align="center"> 
+<a href="https://github.com/0xor0ne/RoustKit">RoustKit</a>
+-
 <a href="https://github.com/0xor0ne/debugoff">DebugOff</a>
 -
 <a href="https://github.com/0xor0ne/qscan">QScan</a>
