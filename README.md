@@ -7,16 +7,13 @@
 
 <p align="center"> 
     <a href="https://x.com/0xor0ne"><img alt="X" src="https://img.shields.io/badge/0xor0ne-000000?style=for-the-badge&logo=X&logoColor=white"></a>
-    <a href="https://twitter.com/0xor0ne"><img alt="Twitter" src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://infosec.exchange/@0xor0ne"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/nfacchi/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
     <a href="https://bsky.app/profile/0xor0ne.bsky.social"><img alt="Bsky" src="https://img.shields.io/badge/Bsky-2D68F5?style=for-the-badge&logo=Bluesky&logoColor=white"></a>
-    <a href="https://www.threads.net/@0xor0ne"><img alt="Threads" src="https://img.shields.io/badge/Threads-0000F5?style=for-the-badge&logo=Threads&logoColor=white"></a>
-    <a href="https://medium.com/@0xor0ne"><img alt="Medium" src="https://img.shields.io/badge/Medium-50565D?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p> 
 
 <h3 align="center"> 
-Security Researcher interested in Rust, C, Linux (kernel) and embedded devices
+Security Researcher specializing in Rust, C, and Linux (kernel) development, with a focus on offensive security tools and embedded systems
 </h3>
 
 <h3 align="center"> 
