@@ -8,11 +8,12 @@
 <p align="center"> 
     <a href="https://x.com/0xor0ne"><img alt="X" src="https://img.shields.io/badge/0xor0ne-000000?style=for-the-badge&logo=X&logoColor=white"></a>
     <a href="https://infosec.exchange/@0xor0ne"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
+    <a href="https://0xor0ne.bsky.social"><img alt="Bsky" src="https://img.shields.io/badge/Bluesky-3686f7?style=for-the-badge&logo=Bluesky&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/nfacchi/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p> 
 
 <h3 align="center"> 
-Security Researcher specializing in Rust, C, and Linux (kernel) development, with a focus on offensive security tools and embedded systems
+Security Researcher specializing in embedded systems, RTOSs and microkernel security
 </h3>
 
 <h3 align="center"> 
@@ -37,5 +38,4 @@ Security Researcher specializing in Rust, C, and Linux (kernel) development, wit
 
 <p align="center"> 
     <a href="mailto:0xor0ne@gmail.com" target="_blank"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-    <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/BAC49FE3A714464FA7C8EDB855CB26B022BD1FCA" target="_blank"><img alt="55CB 26B0 22BD 1FCA" src="https://img.shields.io/badge/PGP Key-4A0?style=flat-square&logo=GNU Privacy Guard&logoColor=FFFFFF"></a>
 </p> 
